@@ -1,0 +1,27 @@
+---
+layout: archive
+title: "Project Experiences"
+permalink: /collection-archive/
+author_profile: true
+---
+<div class="notice--warning">
+  <strong>Notes:</strong> Some of the content presented here is <strong>not publicly available</strong> due to confidentiality agreements and proprietary information owned by the <strong>IBM company</strong>. Access to such content is <strong>restricted</strong> to authorized individuals and must be handled with care.
+</div>
+
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+  {% unless collection.output == false or collection.label == "posts" or collection.label == "docs" %}
+    {% capture label %}{{ collection.label }}{% endcapture %}
+    {% if label != written_label %}
+      <h2 id="{{ label | slugify }}" class="archive__subtitle">{{ label }}</h2>
+      {% capture written_label %}{{ label }}{% endcapture %}
+    {% endif %}
+  {% endunless %}
+  {% for post in collection.docs %}
+    {% unless collection.output == false or collection.label == "posts" or collection.label == "docs" %}
+      {% include archive-single.html %}
+    {% endunless %}
+  {% endfor %}
+{% endfor %}

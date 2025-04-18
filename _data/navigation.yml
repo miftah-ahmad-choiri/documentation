@@ -1,0 +1,218 @@
+# example navigation
+foo:
+  - title: "Parent Link 1"
+    url: /parent-1-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+  - title: "Parent Link 2"
+    url: /parent-2-page-url/
+    children:
+      - title: "Child Link 1"
+        url: /child-1-page-url/
+      - title: "Child Link 2"
+        url: /child-2-page-url/
+      - title: "Child Link 3"
+        url: /child-3-page-url/
+
+
+# main links
+main:
+  - title: "🏠Home"
+    url: /
+  - title: "📄MyDocs"
+    url: /docs/
+  - title: "🏆MyPorto"
+    url: /blog/
+  - title: "💼MyProject"
+    url: /collection-archive/
+  - title: "👤MySelf"
+    url: /about/
+  - title: "📜Terms &amp; Privacy Policy"
+    url: /terms/
+    #target: _blank
+
+
+# documentation links
+docs:
+  - title: Start Your Github Journey🔃
+    children:
+      - title: "• Setup Guide"
+        url: /docs/github/github-setup-guide-windows/
+      - title: "• Releasing New Version"
+        url: /docs/github/github-version-release/
+      - title: "• Jekyll Structures"
+        url: /docs/github/how-to-edit-jekyll/
+      - title: "• Publish a Content"
+        url: /docs/github/publish-content/
+  - title: IBM AIX🌐
+    children:
+      - title: "• AIX Basics - IBM AIX Administrator"
+        url: /docs/aix/aix-basics/
+      - title: "• Backup mksysb AIX"
+        url: /docs/aix/backup-mksysb-aix/
+      - title: "• Full-Guide Replace Disk AIX/VIOS"
+        url: /docs/aix/aix-replace-disks/
+  - title: Red Hat Ansible🤖
+    children:
+      - title: "• How to Install AWX"
+        url: /docs/ansible/how-to-install-awx
+  - title: Google Cloud
+    children:
+      - title: "• Introduction to Generative AI💡"
+        url: /docs/gcp/intro-gen-ai/
+      - title: "• Prompt Design in Vertex AI"
+        url: /docs/gcp/prompt-design-vertex-ai/
+      - title: "• Build AI Apps with Gemini"
+        url: /docs/gcp/build-ai-apps-gemini/
+      - title: "• The Basics of Google Cloud Compute"
+        url: /docs/gcp/gcp-basics/
+      - title: "• Cloud Speech API: 3 Ways"
+        url: /docs/gcp/cloud-speech-api/
+      - title: "• Secure BigLake Data"
+        url: /docs/gcp/secure-biglake-data/
+      - title: "• Get Started with Sensitive Data Protection"
+        url: /docs/gcp/sensitive-data-protection/
+      - title: "• Automate Data Capture at Scale with Document AI"
+        url: /docs/gcp/automate-data-capture/
+      - title: "• Explore Generative AI with the Vertex AI Gemini API"
+        url: /docs/gcp/gen-ai-with-gemini-api/
+      - title: "• The Basics of Google Cloude Compute"
+        url: /docs/gcp/gemini-in-bigquery/
+      - title: "• Workspace: Add-ons"
+        url: /docs/gcp/workspace-addons/
+      - title: "• Secure Software Delivery"
+        url: /docs/gcp/secure-software-delivery/
+      - title: "• Develop GenAI Apps with Gemini and Streamlit"
+        url: /docs/gcp/genai-gemini-streamlit/
+      - title: "• Gemini for Data Scientists and Analysts"
+        url: /docs/gcp/gemini-data-scientist-analyst/
+      - title: "• Work with Gemini Models in BigQuery"
+        url: /docs/gcp/gemini-big-query/
+      - title: "• Google Developer Essentials"
+        url: /docs/gcp/google-dev-essentials/
+      - title: "• Prepare Data for ML APIs on Google Cloud"
+        url: /docs/gcp/prepare-data-ml-gcp/
+      - title: "• Responsible AI for Developers: Privacy & Safety"
+        url: /docs/gcp/privacy-safety-ai/
+      - title: "• Quiz Question & Anwer JUARAGCP"
+        url: /docs/gcp/juaragcp-quiz/
+  - title: IELTS English Courses🌎
+    children:
+      - title: "• Understanding and Using English Grammar"
+        url: /docs/ielts/grammar-betty-azar-5th/
+      - title: "• Fundamental of English Grammar"
+        url: /docs/ielts/grammar-betty-azar-5th-fundamental/
+      - title: "• Basics of English Grammar"
+        url: /docs/ielts/grammar-betty-azar-5th-basics/
+  - title: IBM Storage DS8000
+    children:
+      - title: "• Replace Battery BSM IBM DS8K"
+        url: /docs/ds8k/replace-battery/
+      - title: "• How to Collec PE-Packages DS8880"
+        url: /docs/ds8k/collect-pepkages/
+  - title: Server DELL VRTX 
+    children:
+      - title: "• Replace Disk DELL VRTX"
+        url: /docs/dell/replace-disk-vrtx/
+  - title: IBM AS400📟
+    children:
+      - title: "• IBM i System Operator"
+        url: /docs/as400/ibmi-system-operator/
+      - title: "• Replace HBA Adapter at BTN"
+        url: /docs/as400/replace-hba-btn/
+      - title: "• Preventive Maintenance or Health Check AS400"
+        url: /docs/as400/pm-as400/
+  - title: HMC IBM📟
+    children:
+      - title: "• How to Renew, Generate, Input UAK Keys on HMC"
+        url: /docs/hmc/renew-input-uak-key/
+      - title: "• Upgrading, Update, Backup HMC IBM"
+        url: /docs/aix/upgrade-hmc/
+  - title: Pure Storage📚
+    children:
+      - title: "• FE Training Pure Storage M Series"
+        url: /docs/purestorage/fe-training-mseries/
+  - title: Cisco📦
+    children:
+      - title: "• Implementing and Administering Cisco Solutions"
+        url: /docs/cisco/implementing-administering-cisco-solutions/
+      - title: "• Upload File to Server or Switch"
+        url: /docs/cisco/upload-file/
+      - title: "• Cisco Email Security Appliances"
+        url: /docs/cisco/cisco-email-security-appliances/
+      - title: "• Cisco UCS C460 Server"
+        url: /docs/cisco/cisco-ucs-c460-server/
+      - title: "• Troubleshooting Hardware Issue"
+        url: /docs/cisco/troubleshoot-hardware-issue/
+      - title: "• VLAN Theory"
+        url: /docs/cisco/vlan-theory/
+      - title: "• Upgrade Firmware Cisco"
+        url: /docs/cisco/upgrade-firmware-cisco/
+  - title: Brocade📦
+    children:
+      - title: "• Upgrading the Firmware Brocade Switch"
+        url: /docs/brocade/upgrade-firmware-brocade/
+  - title: Redhat Enterprise Linux🎩
+    children:
+      - title: "• Wait in Progress"
+        url: /404.html
+  - title: Redhat OpenShift📦
+    children:
+      - title: "• Wait in Progress"
+        url: /404.html
+  - title: IBM Software📚
+    children:
+      - title: "• How to Install IBM MQ on RHEL"
+        url: /docs/ibm-software/installation-ibmmq/
+      - title: "• Fundamental of IBM MQ"
+        url: /docs/ibm-software/training-ibmmq/
+      - title: "• Connect Remote MQ Server to MQ Explorer"
+        url: /docs/ibm-software/explorer-ibmmq/
+
+
+
+# sidebar navigation list sample
+sidebar-sample:
+  - title: "Parent Page A"
+    children:
+      - title: "Child Page A1"
+        url: /
+      - title: "Child Page A2"
+        url: /
+      - title: "Child Page A3"
+        url: /
+      - title: "Child Page A4"
+        url: /
+  - title: "Parent Page B"
+    children:
+      - title: "Child Page B1"
+        url: /
+      - title: "Child Page B2"
+        url: /
+      - title: "Child Page B3"
+        url: /
+      - title: "Child Page B4"
+        url: /
+      - title: "Child Page B5"
+        url: /
+  - title: "Parent Page C"
+    children:
+      - title: "Child Page C1"
+        url: /
+      - title: "Child Page C2"
+        url: /
+      - title: "Child Page C3"
+        url: /
+      - title: "Child Page C4"
+        url: /
+      - title: "Child Page C5"
+        url: /
+  - title: "Parent Page D"
+    children:
+      - title: "Child Page D1"
+        url: /
+      - title: "Child Page D2"
+        url: /
