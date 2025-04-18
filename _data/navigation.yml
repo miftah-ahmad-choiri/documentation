@@ -18,20 +18,38 @@ foo:
         url: /child-3-page-url/
 
 
+# documentation links
+lenovo:
+  - title: 🔙 Back to Main Menu 
+    children:
+      - title: "• Go Back Now!"
+        url: https://miftah-ahmad-choiri.github.io/docs/
+  - title: Lenovo Education Center
+    children:
+      - title: "• Lenovo XClarity Administrator"
+        url: /docs/lenovo/ES71043/
+      - title: "• Releasing New Version"
+        url: /docs/github/github-version-release/
+      - title: "• Jekyll Structures"
+        url: /docs/github/how-to-edit-jekyll/
+      - title: "• Publish a Content"
+        url: /docs/github/publish-content/
+
+
 # main links
 main:
   - title: "🏠Home"
-    url: /
-  - title: "📄MyDocs"
-    url: /docs/
+    url: https://miftah-ahmad-choiri.github.io/
+  - title: "📄MyNotes"
+    url: https://miftah-ahmad-choiri.github.io/docs/
   - title: "🏆MyPorto"
-    url: /blog/
+    url: https://miftah-ahmad-choiri.github.io/blog/
   - title: "💼MyProject"
-    url: /collection-archive/
-  - title: "👤MySelf"
-    url: /about/
+    url: https://miftah-ahmad-choiri.github.io/collection-archive/
+  - title: "👤MyResume"
+    url: https://miftah-ahmad-choiri.github.io/about/
   - title: "📜Terms &amp; Privacy Policy"
-    url: /terms/
+    url: https://miftah-ahmad-choiri.github.io/terms/
     #target: _blank
 
 
