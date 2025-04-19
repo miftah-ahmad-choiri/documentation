@@ -1,0 +1,1 @@
+https://miftah-ahmad-choiri.github.io/documentation/docs/lenovo/ES71043/
