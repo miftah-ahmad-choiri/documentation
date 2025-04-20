@@ -26,16 +26,16 @@ lenovo:
         url: https://miftah-ahmad-choiri.github.io/docs/
   - title: Lenovo XClarity & Management Tools
     children:
-      - title: "• Lenovo XClarity Administrator"
-        url: /docs/lenovo/ES71043/
-      - title: "• Lenovo XClarity Essentials (LXCE) WebEx training"
-        url: /docs/lenovo/ES21787/
-      - title: "• Introducing Lenovo XClarity One"
-        url: /docs/lenovo/ES42654/
       - title: "• Introducing ThinkSystem tools"
         url: /docs/lenovo/ES51757B/
       - title: "• ThinkSystem tools for the ThinkSystem V4 platform"
         url: /docs/lenovo/ES52678/
+      - title: "• Lenovo XClarity Administrator"
+        url: /docs/lenovo/ES71043/
+      - title: "• Lenovo XClarity Essentials (LXCE)"
+        url: /docs/lenovo/ES21787/
+      - title: "• Introducing Lenovo XClarity One"
+        url: /docs/lenovo/ES42654/
   - title: General & Architecture ThinkSystem Servers 
     children:
       - title: "• ThinkSystem servers architecture introduction"
