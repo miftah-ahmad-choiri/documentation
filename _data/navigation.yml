@@ -192,8 +192,8 @@ lenovo:
     children:
       - title: "• NVIDIA Mellanox SN5600"
         url: /docs/lenovo/ES42661/
-      #- title: "• ThinkSystem NE2552E Flex Switch 🆕✔️"                                                                                                                                                                                                                                                                                                                                                                                                            Flex Switch 🆕✔️"
-      #  url: /docs/lenovo/ES41722/
+      - title: "• ThinkSystem NE2552E Flex Switch 🆕✔️"
+        url: /docs/lenovo/ES41722/
   - title: Legacy Lenovo Servers
     children:
       - title: "• Lenovo x3550 M5 and x3650 M5 🆕✔️"
