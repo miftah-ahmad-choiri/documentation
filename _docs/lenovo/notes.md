@@ -208,3 +208,14 @@ ES72323B/ Servicing the ThinkSystem SD650 V3, SD650-I V3, SD650-N V3,and DW612S 
 ES72378/  Servicing the ThinkSystem SR665 V3 *
 ES72376/  Servicing the ThinkSystem SR645 V3 * 
 ES42430/  AMD EPYC processor architecture for ThinkSystem V3 servers *
+
+
+
+
+ 49-ES42108B.md  57-ES72039.md   64-ES71914C.md  71-ES21492.md   78-ES71150B.md
+ 50-ES42373B.md  58-ES72336.md   65-ES52101.md   72-ES41388.md   79-ES40610D.md
+ 51-ES41999.md   59-ES72378.md   66-ES51952.md   73-ES42023B.md  80-ES41551.md
+ 52-ES42430.md   60-ES42117.md   67-ES42190.md   74-ES42051.md   81-ES41759C.md
+   53-ES72038.md   61-ES72326.md   68-ES72694.md   75-ES41722.md   82-ES42314.md
+ 54-ES72337.md   62-ES72323B.md  69-ES51965.md   76-ES71297C.md  notes.md
+ 48-ES52374.md   56-ES72376.md   63-ES42026.md   70-ES41460.md   77-ES70765E.md
