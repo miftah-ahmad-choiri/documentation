@@ -84,7 +84,7 @@ lenovo:
         url: /docs/lenovo/ES72039/
       - title: "• ThinkSystem SR650 V3"
         url: /docs/lenovo/ES72336/
-      - title: "• ThinkSystem SR650 V4 🕒"
+      - title: "• ThinkSystem SR650 V4"
         url: /docs/lenovo/ES72642/
       - title: "• ThinkSystem SR655 V3"
         url: /docs/lenovo/ES72377/
@@ -148,11 +148,11 @@ lenovo:
     children:
       - title: "• ONTAP 9.7 Administration"
         url: /docs/lenovo/ES42026/
-      - title: "• ThinkSystem DE Series storage arrays 🕒"
+      - title: "• ThinkSystem DE Series storage arrays"
         url: /docs/lenovo/ES71931G/
       - title: "• ThinkSystem DG Series storage systems"
         url: /docs/lenovo/ES62600/
-      - title: "• ThinkSystem DM Series storage systems 🕒"
+      - title: "• ThinkSystem DM Series storage systems"
         url: /docs/lenovo/ES71914C/
       - title: "• ThinkSystem DM3010H storage system"
         url: /docs/lenovo/ES62609/
@@ -162,7 +162,7 @@ lenovo:
         url: /docs/lenovo/ES51952/
   - title: ThinkSystem Components
     children:    
-      - title: "• Servicing ThinkSystem storage controllers 🕒"
+      - title: "• Servicing ThinkSystem storage controllers"
         url: /docs/lenovo/ES51780C/
       - title: "• ThinkSystem 4350/5350/9350 RAID/HBA series adapters"
         url: /docs/lenovo/ES42190/
@@ -170,7 +170,7 @@ lenovo:
         url: /docs/lenovo/ES42728/
       - title: "• Servicing Neptune Liquid Cooling systems"
         url: /docs/lenovo/ES42714/
-      - title: "• ThinkSystem N1380 Neptune DWC enclosure and SC750 V4 Neptune server 🕒"
+      - title: "• ThinkSystem N1380 Neptune DWC enclosure and SC750 V4 Neptune server"
         url: /docs/lenovo/ES72694/
       - title: "• Introducing the Intel Optane DC persistent memory module"
         url: /docs/lenovo/ES51965/
@@ -182,7 +182,7 @@ lenovo:
         url: /docs/lenovo/ES41388/
   - title: ThinkAgile & Hyperconverged Solutions
     children:
-      - title: "• ThinkAgile HX Series appliances and certified nodes 🕒"
+      - title: "• ThinkAgile HX Series appliances and certified nodes"
         url: /docs/lenovo/ES41641H/
       - title: "• ThinkAgile HX Series: general troubleshooting and PD map"
         url: /docs/lenovo/ES42023B/
