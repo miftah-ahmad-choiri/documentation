@@ -94,16 +94,24 @@ lenovo:
         url: /docs/lenovo/ES72367/
       - title: "• ThinkSystem SR680a V3"
         url: /docs/lenovo/ES72657/
+      - title: "• ThinkSystem SR680a V3 with B200 🆕"
+        url: /docs/lenovo/ES72751/
       - title: "• ThinkSystem SR685a V3"
         url: /docs/lenovo/ES72656/
       - title: "• ThinkSystem SR780a V3"
         url: /docs/lenovo/ES72671/
+      - title: "• ThinkSystem SR780a V3 🆕"
+        url: /docs/lenovo/ES72671C/
       - title: "• ThinkSystem SR850 V3"
         url: /docs/lenovo/ES72436/
+      - title: "• ThinkSystem SR850 V4 🆕"
+        url: /docs/lenovo/ES72721/
       - title: "• ThinkSystem SR850P server"
         url: /docs/lenovo/ES71986/
       - title: "• ThinkSystem SR860 V3"
         url: /docs/lenovo/ES72437/
+      - title: "• ThinkSystem SR860 V4 🆕"
+        url: /docs/lenovo/ES72720/
       - title: "• ThinkSystem SR950 V3"
         url: /docs/lenovo/ES72516/
       - title: "• Diamanti SR630"
@@ -130,6 +138,14 @@ lenovo:
         url: /docs/lenovo/ES71741/
   - title: ThinkEdge Servers 
     children:
+      - title: "• ThinkEdge SE100 🆕"
+        url: /docs/lenovo/ES72727/
+      - title: "• ThinkEdge SE350 🆕"
+        url: /docs/lenovo/ES71911C/
+      - title: "• ThinkEdge SE350 v2 & SE360 v2 🆕"
+        url: /docs/lenovo/ES72507B/
+      - title: "• ThinkEdge SE450 🆕"
+        url: /docs/lenovo/ES52328B/
       - title: "• ThinkEdge SE455 V3"
         url: /docs/lenovo/ES72547/
   - title: High Performance-ThinkSystem Servers 
@@ -160,6 +176,10 @@ lenovo:
         url: /docs/lenovo/ES52101/
       - title: "• ThinkSystem DM7100 Series and the DM240N"
         url: /docs/lenovo/ES51952/
+      - title: "• DG5200, DG7200, and DG242N storage systems 🆕"
+        url: /docs/lenovo/ES62719/
+      - title: "• DM3200F, DM5200F, DM5200H, DM7200F, and DM242N storage systems 🆕"
+        url: /docs/lenovo/ES62733/
   - title: ThinkSystem Components
     children:    
       - title: "• Servicing ThinkSystem storage controllers"
@@ -196,6 +216,8 @@ lenovo:
         url: /docs/lenovo/ES42661/
       - title: "• ThinkSystem NE2552E Flex Switch"
         url: /docs/lenovo/ES41722/
+      - title: "• ThinkSystem DB710S FC SAN Switch 🆕"
+        url: /docs/lenovo/ES42718/
   - title: Legacy Lenovo Servers
     children:
       - title: "• Lenovo x3550 M5 and x3650 M5"
